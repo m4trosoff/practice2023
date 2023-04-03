@@ -1,0 +1,8 @@
+C:\Users\sobak\source\repos\practiceup\practiceup\bin\Debug\practiceup.exe.config
+C:\Users\sobak\source\repos\practiceup\practiceup\bin\Debug\practiceup.exe
+C:\Users\sobak\source\repos\practiceup\practiceup\bin\Debug\practiceup.pdb
+C:\Users\sobak\source\repos\practiceup\practiceup\obj\Debug\practiceup.csproj.AssemblyReference.cache
+C:\Users\sobak\source\repos\practiceup\practiceup\obj\Debug\practiceup.csproj.SuggestedBindingRedirects.cache
+C:\Users\sobak\source\repos\practiceup\practiceup\obj\Debug\practiceup.csproj.CoreCompileInputs.cache
+C:\Users\sobak\source\repos\practiceup\practiceup\obj\Debug\practiceup.exe
+C:\Users\sobak\source\repos\practiceup\practiceup\obj\Debug\practiceup.pdb
